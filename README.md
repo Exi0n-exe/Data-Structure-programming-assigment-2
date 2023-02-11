@@ -18,7 +18,7 @@
 
 2] d) [C Program to determine if given two trees are identical or not.](./Programs/2%20D/2d.c)
 
-2] e) [C Program to demonstrate creation of AVL tree.](./Programs/2%20E%20(incomplete)/2e.c)
+2] e) [~~C Program to demonstrate creation of AVL tree.~~](./Programs/2%20E%20(incomplete)/2e.c)
 
 3] a) [C Program to Find transpose of a given matrix.](./Programs/3A/3a.c)
 
